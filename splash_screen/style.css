@@ -19,7 +19,7 @@ body{
 .logotexto{
     display: flex;
     align-items: center;
-    font-size: 25px;
+    font-size: 45px;
     
     
     /*cor do texto em degrade*/
@@ -31,12 +31,8 @@ body{
 }
 
 #logo_frigideira{
-    height: 180px;
-    width: 180px;
+    height: 450px;
+    width: 450px;
 }
 
-#loading{
-    height: 75px;
-    width: 75px;
-}
 
